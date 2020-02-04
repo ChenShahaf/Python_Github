@@ -1,0 +1,16 @@
+DEBUG:root:Add: 10 + 5 = 15
+DEBUG:root:Substruct: 10 - 5 = 5
+DEBUG:root:Multiply: 10 * 5 = 50
+DEBUG:root:Divide: 10 / 5 = 2.0
+DEBUG:__main__:Add: 10 + 5 = 15
+DEBUG:root:Substruct: 10 - 5 = 5
+DEBUG:root:Multiply: 10 * 5 = 50
+DEBUG:root:Divide: 10 / 5 = 2.0
+DEBUG:__main__:Add: 10 + 5 = 15
+DEBUG:root:Substruct: 10 - 5 = 5
+DEBUG:root:Multiply: 10 * 5 = 50
+DEBUG:root:Divide: 10 / 5 = 2.0
+2019-03-04 21:02:18,241 : INFO : Add: 10 + 5 = 15 
+2019-03-04 21:02:18,243 : DEBUG : Substruct: 10 - 5 = 5 
+2019-03-04 21:02:18,243 : DEBUG : Multiply: 10 * 5 = 50 
+2019-03-04 21:02:18,249 : DEBUG : Divide: 10 / 5 = 2.0 
